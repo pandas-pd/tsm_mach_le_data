@@ -5,6 +5,7 @@ scikit-learn
 torchvision
 streamlit
 SQLAlchemy
+psycopg2-binary
 
 sentence-transformers
 fuzzywuzzy[speedup]
